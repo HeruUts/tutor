@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 # You should use environment variable in production
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = ""
 
 # Initialize client
 client = OpenAI(api_key=OPENAI_API_KEY)
